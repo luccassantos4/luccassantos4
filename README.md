@@ -1,6 +1,6 @@
-### Hi there, Lucas Santos ðŸ‘‹
+### Hi there, Lucas Santos 👋
 
-[![Website](https://img.shields.io/website?label=devcaetanomatheus.com&style=for-the-badge&url=https://devmatheuscaetano.com/)](https://devmatheuscaetano.com/)
+<!-- [![Website](https://img.shields.io/website?label=devcaetanomatheus.com&style=for-the-badge&url=https://devmatheuscaetano.com/)](https://devmatheuscaetano.com/) -->
 
 
 ### Connect with me:
