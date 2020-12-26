@@ -25,6 +25,7 @@
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+<img align="left" alt="CodeIgniter" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimage.net%2Fcodeigniter-logo-png-2%2F&psig=AOvVaw24h6F3_4pY5vFPFkyZbPW6&ust=1609100909043000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCh_ZK-7O0CFQAAAAAdAAAAABAI" />
 <!-- <img align="left" alt="Lumen" width="26px" src="https://img.stackshare.io/service/2820/lumen.png" /> -->
 <!-- <img align="left" alt="Zend" width="26px" src="https://lh3.googleusercontent.com/proxy/Cudf9EHeVj1yiMhWWgunjZA3BJ7wpMV-Smuhnd0fj8diFgRhgnTmjo_X7Jrq6GRfp1GpYt3VKKYHBxzboa6ILmVhm7ZQHnELV5lvLTs" /> -->
 <!-- <img align="left" alt="Apigility" width="26px" src="https://img.stackshare.io/service/2627/eed79f8989d03cd3ce30757f91926287.png" /> -->
