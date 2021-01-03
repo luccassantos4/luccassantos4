@@ -1,4 +1,4 @@
-### Hi there, Lucas Santos 👋
+### Hi there, my name is Lucas, I am Web Developer. I am studying Information System. 👋
 
 <!-- [![Website](https://img.shields.io/website?label=devcaetanomatheus.com&style=for-the-badge&url=https://devmatheuscaetano.com/)](https://devmatheuscaetano.com/) -->
 
