@@ -1,4 +1,4 @@
-### Hi there, my name is Lucas, I am Web Developer.👋
+### Hi there, my name is Lucas, Developer 💻
 
 [![Website](https://img.shields.io/website?label=luccassantos4.github.io/&style=for-the-badge&url=https://luccassantos4.github.io/)](https://luccassantos4.github.io/)
 
