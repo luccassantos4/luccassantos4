@@ -37,6 +37,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="dart" width="26px" src="icons/dart.png" />
+<img align="left" alt="python" width="26px" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg" />
 
 <!-- [website]: https://devmatheuscaetano.com/ -->
 [linkedin]: https://www.linkedin.com/in/luccassantos/
