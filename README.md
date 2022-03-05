@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
+<div align="center" valign="top">
   
   ### Languages and Tools:
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,7 +26,7 @@
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
   <img align="center" alt="dart" height="30" width="40" src="icons/dart.png" />
   <img align="center" alt="python" height="30" width="40" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg" />
-</div><br>
+</div>
 
 <div align="center">
     
