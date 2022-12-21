@@ -1,5 +1,13 @@
 
 <h1>Hello! be welcome 🖖</h1>
+Welcome to my GitHub profile! I am a information system student looking to improve my knowledge in the area of web development. I am 25 years old and very interested in developing my skills in the use of different technologies and languages.
+
+<br/>
+<br/>
+
+<div align="center">
+<img width="400" alt="GIF" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif" />
+</div>
 
 # 📊 GitHub Stats:
 <div align="center">
