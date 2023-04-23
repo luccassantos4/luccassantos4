@@ -1,7 +1,7 @@
 
 <h1>Hello! be welcome 🖖</h1>
 
-<hr><img align="right" width="210" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>
+<img align="right" width="210" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>
 <!--<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>-->
 
 Welcome to my GitHub profile! I am a information system student looking to improve my knowledge in the area of web development. I am 25 years old and very interested in developing my skills in the use of different technologies and languages.
