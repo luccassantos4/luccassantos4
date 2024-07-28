@@ -4,7 +4,7 @@
 <img align="right" width="200" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>
 <!--<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>-->
 
-Welcome to my GitHub profile! I am a information system student looking to improve my knowledge in the area of web development. I am 25 years old and very interested in developing my skills in the use of different technologies and languages.
+Welcome to my GitHub profile! I am a information system student looking to improve my knowledge in the area of web development. I am 27 years old and very interested in developing my skills in the use of different technologies and languages.
 
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/_luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
