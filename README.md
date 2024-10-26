@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I am a information system student looking to improve my knowledge in the area of web development. I am 27 years old and very interested in developing my skills in the use of different technologies and languages.
 
 <div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/_luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--<a href="https://www.instagram.com/_luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><hr>
