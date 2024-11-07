@@ -1,5 +1,6 @@
 
-## Hi There! 🖖
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Santos</h1>
 
 <img align="right" width="200" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>
 <!--<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>-->
