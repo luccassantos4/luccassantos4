@@ -1,6 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Santos</h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="400px" align="right">
-
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Santos</h1>
 <!--<img align="right" width="200" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>-->
 
 (Java | Spring Boot | Quarkus | AWS | Javascript) 🚀
