@@ -1,14 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Santos</h2>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 <!--<img align="right" width="200" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>-->
 
-(Java | Spring Boot | Quarkus | AWS | Javascript | HTML | CSS ) 🚀
-- 👩‍💻 Software Enginner
+(Java | Spring Boot | Quarkus | AWS | Javascript) 🚀
+- 👩‍💻 Working as Software Enginner PL at Accenture
 - 🎓 Bachelor's degree in Information Systems
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
+- 🤔 Exploring new technologies and developing software solutions.
 
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
