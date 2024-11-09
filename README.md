@@ -15,8 +15,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccassantos4&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccassantos4&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
