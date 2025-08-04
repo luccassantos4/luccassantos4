@@ -9,9 +9,32 @@
 - 💡 Love a good challenge
 - 🤔 Exploring new technologies and developing software solutions.
 
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/luccassantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><hr>
+<br />
+
+**My Certification Badges:**
+</br>
+
+<a href="" target="_blank">
+  <img alt="Azure Fundamentals AZ-900 Badge" width="130px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+</a>
+
+<a href="" target="_blank">
+  <img alt="Azure Data Fundamentals DP-900 Badge" width="130px" src="https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png"/>
+</a>
+
+<a href="" target="_blank">
+  <img alt="Oracle Certified Java SE 11" width="130px" src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/twitter_thumb_201604_02_Java-SE-11-Developer_Professional__1_.png"/>
+</a>
+
+<a href="" target="_blank">
+  <img alt="AWS Cloud Practitioner" width="130px" src="https://miro.medium.com/v2/resize:fit:461/1*9cUKeqVhscX0Y-EDoG9Ecg.png"/>
+</a>
+
+
+
+
+<hr>
+
 
 # 📊 GitHub Estatística:
 <div align="center">
