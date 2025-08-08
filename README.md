@@ -3,7 +3,7 @@
 <!--<img align="right" width="200" src="https://c.tenor.com/e73LQkmBbcUAAAAC/mr-robot-happy.gif"/>-->
 
 (Java | Spring Boot | Quarkus | AWS | Javascript) 🚀
-- 👩‍💻 Working as Software Enginner PL at Accenture
+- 👩‍💻 Working as Software Enginner PL at Banco Bradesco
 - 🎓 Bachelor's degree in Information Systems
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
