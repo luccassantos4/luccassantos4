@@ -27,7 +27,7 @@
 </a>
 
 <a href="" target="_blank">
-  <img alt="Oracle Certified Java SE 11" width="130px" src="https://images.credly.com/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/twitter_thumb_201604_02_Java-SE-11-Developer_Professional__1_.png"/>
+  <img alt="Oracle Certified Java SE 11" width="140px" src="https://images.credly.com/images/009b5011-88e6-486d-848b-3af7693fb5ee/02_Java-SE-11-Developer_Professional__1_.png"/>
 </a>
 
 <a href="" target="_blank">
