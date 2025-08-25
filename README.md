@@ -15,6 +15,10 @@
 </br>
 
 <a href="" target="_blank">
+  <img alt="Azure Developer Associate AZ-204 Badge" width="130px" src="https://www.4biosacademy.com.br/files/thumbs/block_2496-imgaz-204-350x350.jpg?v=1642189348"/>
+</a>
+
+<a href="" target="_blank">
   <img alt="Azure Fundamentals AZ-900 Badge" width="130px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 </a>
 
