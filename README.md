@@ -40,12 +40,14 @@
 <hr>
 
 
-# 📊 GitHub Estatística:
+# 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <!-- Card público (funciona imediatamente) -->
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&cache_seconds=3600" />
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=3600" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 # 💻 ⚡ Minhas stacks:
 
