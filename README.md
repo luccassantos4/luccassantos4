@@ -39,19 +39,7 @@
 
 <hr>
 
-
-# 📊 Estatísticas do GitHub
-<div align="center">
-  <!-- Card público (funciona imediatamente) -->
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&cache_seconds=3600" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccassantos4&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=3600" />
-</div>
-
-
-
 # 💻 ⚡ Minhas stacks:
-
-Stacks que trabalhei até hoje:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -79,4 +67,18 @@ Stacks que trabalhei até hoje:
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+</picture>
+  
+</div>
+
+
+
 
