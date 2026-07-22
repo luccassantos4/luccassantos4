@@ -36,11 +36,13 @@ Backend engineer who likes building things from scratch — from distributed sys
 
 <hr>
 
-<!--
 ## Projects
 
-- 🚧 Add your projects here soon.
--->
+- 🔗 **[URL Shortener Java](https://github.com/luccassantos4/encurtador-urls-java)** — URL shortener built with Java and Spring Boot
+- ☁️ **[Java AWS CRUD DynamoDB](https://github.com/luccassantos4/java-aws-crud-dynamodb)** — CRUD API integrated with AWS DynamoDB
+- 💬 **[Live Chat Spring Boot WebSocket](https://github.com/luccassantos4/livechat-spring-boot-websocket)** — Real-time chat application using Spring Boot and WebSocket
+- 📧 **[Send Email Java](https://github.com/luccassantos4/SendEmailJava)** — Email sending service implemented in Java
+- 📊 **[Dashboard Java Spring React](https://github.com/luccassantos4/DashboardJavaSpringReact)** — Dashboard project with Java, Spring and React
 
 ## What I'm Working On
 
