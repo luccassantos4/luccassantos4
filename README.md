@@ -12,7 +12,22 @@
 
 Backend engineer who likes building things from scratch — from distributed systems and backend services to APIs and cloud-native solutions. Currently shipping code at Banco Bradesco and exploring how AI reshapes the way we build software.
 
-**My Certification Badges:**
+## Projects
+
+- 🔗 **[URL Shortener Java](https://github.com/luccassantos4/encurtador-urls-java)** — URL shortener built with Java and Spring Boot
+- ☁️ **[Java AWS CRUD DynamoDB](https://github.com/luccassantos4/java-aws-crud-dynamodb)** — CRUD API integrated with AWS DynamoDB
+- 💬 **[Live Chat Spring Boot WebSocket](https://github.com/luccassantos4/livechat-spring-boot-websocket)** — Real-time chat application using Spring Boot and WebSocket
+- 📧 **[Send Email Java](https://github.com/luccassantos4/SendEmailJava)** — Email sending service implemented in Java
+- 📊 **[Dashboard Java Spring React](https://github.com/luccassantos4/DashboardJavaSpringReact)** — Dashboard project with Java, Spring and React
+
+## What I'm Working On
+
+- **Backend engineering** — Distributed systems, microservices, and message-driven architectures
+- **Java & Spring Boot** — My daily drivers for building scalable services
+- **Cloud & data platforms** — Exploring modern architectures and integrations
+- **Always learning** — `while (alive) { study++ }`
+
+## My Certification Badges
 
 <a href="" target="_blank">
   <img alt="Azure Developer Associate AZ-204 Badge" width="130px" src="https://www.4biosacademy.com.br/files/thumbs/block_2496-imgaz-204-350x350.jpg?v=1642189348"/>
@@ -33,23 +48,6 @@ Backend engineer who likes building things from scratch — from distributed sys
 <a href="" target="_blank">
   <img alt="AWS Cloud Practitioner" width="130px" src="https://miro.medium.com/v2/resize:fit:461/1*9cUKeqVhscX0Y-EDoG9Ecg.png"/>
 </a>
-
-<hr>
-
-## Projects
-
-- 🔗 **[URL Shortener Java](https://github.com/luccassantos4/encurtador-urls-java)** — URL shortener built with Java and Spring Boot
-- ☁️ **[Java AWS CRUD DynamoDB](https://github.com/luccassantos4/java-aws-crud-dynamodb)** — CRUD API integrated with AWS DynamoDB
-- 💬 **[Live Chat Spring Boot WebSocket](https://github.com/luccassantos4/livechat-spring-boot-websocket)** — Real-time chat application using Spring Boot and WebSocket
-- 📧 **[Send Email Java](https://github.com/luccassantos4/SendEmailJava)** — Email sending service implemented in Java
-- 📊 **[Dashboard Java Spring React](https://github.com/luccassantos4/DashboardJavaSpringReact)** — Dashboard project with Java, Spring and React
-
-## What I'm Working On
-
-- **Backend engineering** — Distributed systems, microservices, and message-driven architectures
-- **Java & Spring Boot** — My daily drivers for building scalable services
-- **Cloud & data platforms** — Exploring modern architectures and integrations
-- **Always learning** — `while (alive) { study++ }`
 
 ## Connect
 
