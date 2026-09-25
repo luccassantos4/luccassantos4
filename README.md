@@ -38,7 +38,7 @@ Backend engineer who likes building things from scratch — from distributed sys
 </a>
 
 <a href="" target="_blank">
-  <img alt="Azure Data Fundamentals DP-900 Badge" width="130px" src="https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png"/>
+  <img alt="Azure Data Fundamentals DP-900 Badge" width="130px" src="https://consultabd.wordpress.com/wp-content/uploads/2020/08/img002_dp900.png?w=600"/>
 </a>
 
 <a href="" target="_blank">
